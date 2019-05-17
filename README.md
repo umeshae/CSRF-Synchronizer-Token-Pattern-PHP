@@ -8,7 +8,7 @@ Download and install either
 
 to run this application your local machine
 
-##Run
+Run
 
 If the environment is configured using either xampp or wampp servers, then clone the repo and paste it inside the htdocs folder to run the application.
 
